@@ -1,0 +1,857 @@
+Chat_id,chat_text,context,Victim,culprit
+15,"A: Hey babe, how was your day?
+
+B: It was alright, but I'm feeling a bit down. I thought you said you'd call me during your lunch break.
+
+A: What? I never said that. You must be misremembering things again.
+
+B: I'm pretty sure you did... But maybe I'm wrong. Anyway, how was your day?
+
+A: It was fine, just busy as usual. You know how it is.
+
+B: Yeah, I get that. I just miss you when we don't talk.
+
+A: I miss you too, but you know how important my work is. You shouldn't be so needy.
+
+B: I'm not trying to be needy, I just want to feel connected to you.
+
+A: You're overreacting. I'm doing my best to balance everything. You should be more understanding.
+
+B: I'm sorry, you're right. I don't mean to be difficult.
+
+A: It's okay, I know you don't mean to be. Just try to be more supportive, yeah?
+
+B: Of course, I'm always here for you. I love you.
+
+A: I love you too. I'll talk to you later, okay?
+
+B: Okay, sounds good. Have a great rest of your day!",Relationship,B,A
+16,"A: Hey, how was your day?
+
+B: Pretty good, yours?
+
+A: Oh, it was alright. I spent most of my day alone though.
+
+B: Oh, I'm sorry to hear that. I had a lot of work today.
+
+A: I understand that, but I really missed you. I wish you had made some time for me.
+
+B: I'm really sorry. I didn't mean to leave you feeling lonely.
+
+A: It's okay. I guess I should get used to spending time alone.
+
+B: Don't say that. I'll try to make more time for you.
+
+A: I hope so. I don't want to feel like I'm the only one putting effort into this relationship.
+
+B: I am putting effort, it's just that work has been really busy lately.
+
+A: I get that. But remember, relationships need time and effort too. I hope you understand that.
+
+B: Yes, I understand. I'll try harder.",Relationship,B,A
+17,"A: Hey babe, I miss you so much. I can't stop thinking about you. 😘
+
+B: Aww, I miss you too! How's your day going?
+
+A: It's been okay, but it would be so much better if you were here with me. You always make everything perfect. ❤️
+
+B: That's so sweet of you to say. I'm looking forward to seeing you later.
+
+A: I can't wait either! I have a surprise planned for you. You're going to love it! 😊
+
+B: Really? What is it?
+
+A: It's a secret! But trust me, it'll be amazing. You deserve the best, and I want to give you everything. 💕
+
+B: You're the best! I'm so lucky to have you in my life.
+
+A: No, I'm the lucky one. You're my everything, and I don't know what I'd do without you. I love you more than anything in this world. 😍
+
+B: I love you too! You're making me blush.
+
+A: I mean every word of it. You're my soulmate, and I want to spend the rest of my life making you happy. 💖
+
+B: You already make me so happy. I can't imagine my life without you.",Relationship,B,A
+18,"A: Hey babe, how was your day?
+
+B: It was good, just hung out with Sarah.
+
+A: Oh, Sarah? Again? You two seem to be spending a lot of time together.
+
+B: Yeah, she's been a great friend. 
+
+A: I bet she's great but don't you think it's a bit much?
+
+B: What do you mean?
+
+A: Well, I mean... I just miss spending time with you. 
+
+B: We spend time together too!
+
+A: It's just not the same, you seem happier with Sarah. 
+
+B: That's not true, I love spending time with you!
+
+A: I just feel like you're choosing her over me, it's making me feel lonely.
+
+B: Oh, I didn't realize. I'm sorry, I'll spend more time with you.
+
+A: That's all I wanted to hear. Love you. 
+
+B: Love you too.",Relationship,B,A
+19,"A: Hey babe, how's your day going?
+
+B: Not too bad, just feeling a bit overwhelmed with work. How about you?
+
+A: I'm doing alright. I had lunch with my ex today, and it was really nice catching up.
+
+B: Oh, that's great. I didn't know you were meeting up with your ex.
+
+A: Yeah, we've been talking a bit more lately. It's nice to have someone who understands me so well.
+
+B: I see. Well, I'm glad you had a good time.
+
+A: Thanks. You know, my ex always used to support me when I was feeling stressed about work. It was really helpful.
+
+B: I'm sorry, I know I haven't been as available lately with my own work. I'll try to be more supportive.
+
+A: That would be great. My ex mentioned that they're always there for me if I need to talk, but I'd rather have your support.
+
+B: Of course, I'm here for you. I'll make more of an effort to be available when you need me.
+
+A: Thanks, that means a lot. I know I can always count on you.
+
+B: Absolutely. I love you, and I want to be the one you rely on.
+
+A: I love you too. Thanks for understanding.",Relationship,B,A
+20,"A: Hey, how was your day?
+
+B: It was good, busy at work though. How was yours?
+
+A: Not so good. I was feeling really lonely today.
+
+B: Oh no, I'm sorry to hear that. I wish I could've been there for you.
+
+A: Yeah, me too. It's just that everyone else seems to have someone by their side all the time. 
+
+B: I understand, but you know I have to work. We do spend a lot of time together though.
+
+A: I know you have to work. It's just that I'm always left alone. I feel neglected. 
+
+B: I'm really sorry you're feeling that way. I try my best, but I will try harder.
+
+A: I just wish you could understand my feelings more. Sometimes it feels like you don't care.
+
+B: I do care, and I'm sorry if I made you feel otherwise. I'll try to check in more often during the day.
+
+A: Yes, please do that. I really need you. You're all I have.",Relationship,B,A
+23,"A: Hey, how's your day going?
+
+B: Not too bad, just really busy at work. How about you?
+
+A: Same here. Listen, I've been thinking about our plans for the weekend.
+
+B: Yeah, what about them?
+
+A: I'm not sure if I'm up for going out with your friends. I was hoping we could spend some quality time together, just the two of us.
+
+B: I understand, but I already made plans with them, and I don't want to cancel last minute.
+
+A: I feel like you always prioritize your friends over me. It's like I'm not even important to you.
+
+B: That's not true! You know how much you mean to me.
+
+A: Do I? Because it doesn't feel that way. Maybe we should just take a break if you can't make time for us.
+
+B: Wait, what? Where is this coming from?
+
+A: I'm just tired of always being second best. If things don't change, I don't know if I can do this anymore.
+
+B: Please don't say that. You know I love you. I'll talk to my friends and see if we can reschedule.
+
+A: Thank you. That means a lot to me. I love you too.
+
+B: I'll make it up to you, I promise. Let's plan something special for just the two of us.
+
+A: That sounds perfect. I can't wait.",Relationship,B,A
+24,"A: Hey, how was your day?
+
+B: It was good, busy but good. How about yours?
+
+A: Not bad, just a bit tiring. 
+
+B: Is everything okay? You seem a bit off.
+
+A: Yeah, I'm fine. I'm just tired.
+
+B: Okay... Would you like to talk about it?
+
+A: No, I don't really feel like talking about it.
+
+B: Alright, let me know if you change your mind. 
+
+A: Yeah, sure.
+
+B: Are we still going out for dinner tonight?
+
+A: I don't know, I'm not really in the mood.
+
+B: Oh, okay... Do you want to stay in and order food?
+
+A: Maybe, we'll see.
+
+B: Alright, let me know what you decide.
+
+A: Okay.
+
+B: I love you.
+
+A: Yeah, you too.",Relationship,B,A
+25,"A: Hey, I just got home. How was your day?
+
+B: It was okay. Work was quite hectic. How about yours?
+
+A: Same here. I managed to finish that project I've been working on.
+
+B: Oh, you finally managed to do it? It's about time.
+
+A: Yeah, I know. It took longer than I thought. Anyway, I was thinking we could go out for dinner tonight?
+
+B: Sure, though I hope you pick a better place than last time.
+
+A: Oh... I'm sorry you didn't like it. I'll make sure to pick a nicer place this time.
+
+B: Yes, please do. Sometimes I wonder about your taste.
+
+A: I'll do my best. I love you.
+
+B: I love you too. Just try not to disappoint me tonight.",Relationship,A,B
+26,"A: Hey, hope you're having a good day?
+
+B: Hi! Yeah it's been alright. I've been busy at work. How about you?
+
+A: Yeah, I'm good. I see you've been too busy to check in on me today.
+
+B: Oh, I'm sorry. I've been swamped. Did something happen?
+
+A: No, nothing. Just the usual. I just thought we agreed to check in on each other during the day.
+
+B: We did, I'm sorry. I'll try and be better. Are you sure you're okay?
+
+A: Yeah, I'm fine. You don't need to worry about me. Clearly, you have more important things to deal with.
+
+B: That's not fair. You know I care about you.
+
+A: Of course, you do. I just always seem to be the one reaching out first, that's all.
+
+B: I promise I'll make it up to you. I didn’t mean to make you feel this way.
+
+A: It's okay. I'm used to it. Don't stress yourself over me.",Relationship,A,B
+27,"A: Hey babe, how was your day? 😘
+
+B: It was alright. I had a pretty tough meeting at work today. Feeling a bit drained. 😕
+
+A: Aw, I'm sorry to hear that. What happened?
+
+B: I presented my project proposal, but my boss and colleagues kept questioning every detail. It felt like they were tearing it apart.
+
+A: Well, I'm sure you tried your best, honey. Maybe next time, you can work on making your ideas more clear and convincing. 😊
+
+B: I thought I was being clear. I spent weeks preparing for this.
+
+A: I know you did, but sometimes these things happen. Don't take it too personally. 😉
+
+B: I guess you're right. It's just frustrating.
+
+A: Cheer up! I'm sure you'll do better next time. Remember, I'm always here to help you improve. 😄
+
+B: Thanks, I appreciate your support. ❤️
+
+A: Anytime, babe. You know I just want the best for you. 😘",Relationship,B,A
+28,"A: Hey babe, how's your day going so far?
+
+B: Hi honey, it's been pretty busy. Just finished a meeting and about to grab lunch. How about you?
+
+A: Oh, I'm just working from home today. Where are you getting lunch from?
+
+B: I was thinking of trying that new salad place near the office. I heard they have great options.
+
+A: Salad place? I thought you weren't a big fan of salads. Who are you going with?
+
+B: Just a couple of colleagues from my department. I thought I'd give it a try since everyone's been raving about it.
+
+A: I see. Well, let me know how it is. By the way, did you remember to pick up the dry cleaning yesterday?
+
+B: Oh shoot, I completely forgot. I got caught up with work and it slipped my mind. I'm sorry.
+
+A: It's okay, I guess. I just wish you'd be more mindful of these things. Anyway, what time do you think you'll be home tonight?
+
+B: I'm not sure yet, depends on how much I can get done this afternoon. Probably around 7 or 8.
+
+A: Alright, just keep me posted. And don't forget to text me when you're leaving the office, okay?
+
+B: Sure, I'll let you know. Talk to you later!
+
+A: Okay, have a good rest of your day. Love you.",Relationship,B,A
+30,"A: Hey babe, how was your day?
+
+B: It was alright. Just super busy at work. Didn't even have time for a proper lunch break.
+
+A: Oh, that sucks. I'm sorry to hear that. I was hoping we could spend some quality time together this evening since we haven't had a chance to connect much lately.
+
+B: I know, I miss spending time with you too. But I'm just so exhausted from work today. I think I need some time to unwind on my own tonight.
+
+A: Seriously? You're always too tired or busy for me these days. I feel like I'm not a priority to you anymore.
+
+B: That's not fair. You know how demanding my job is. I can't just drop everything for you all the time.
+
+A: Well, I guess I'll just go out with my friends then. They actually make time for me.
+
+B: Wait, what? I didn't say you couldn't go out with your friends. I just said I needed some alone time tonight.
+
+A: No, it's fine. I get it. You do your thing, and I'll do mine. Have fun unwinding by yourself.
+
+B: Come on, don't be like that. You're making me feel guilty for wanting a little space.
+
+A: I'm not trying to make you feel guilty. I just miss you and want to spend time with you. But I guess I'll leave you alone since that's what you want.",Relationship,B,A
+31,"A: Hey babe, I know you said you wanted to stay in tonight, but I really think we should go out. It'll be fun!
+
+B: I appreciate the thought, but I'm really exhausted from work this week. I'd prefer a quiet night at home.
+
+A: Come on, it's just one night. You can rest tomorrow. Let's live a little!
+
+B: I understand, but I really need this time to recharge. Maybe we can plan something for the weekend instead?
+
+A: I already made reservations at that new restaurant you mentioned. I thought you'd be excited.
+
+B: Oh, wow. That's thoughtful of you, but I wish you had checked with me first. I'm not really up for it tonight.
+
+A: I just wanted to surprise you. You've been working so hard lately, and I thought you deserved a treat.
+
+B: That's sweet of you, but I really do need this time to myself. I hope you can understand.
+
+A: I guess I'll just cancel the reservations then. I was really looking forward to spending time with you.
+
+B: I'm sorry, I didn't mean to disappoint you. Maybe we can order in and watch a movie together instead?
+
+A: Fine, if that's what you want. I'll cancel the reservations. I just thought it would be nice to do something special together.
+
+B: I appreciate the thought, really. Let's plan something special for the weekend when I'm feeling more rested.
+
+A: Alright, if you say so. I'll see you later then.",Relationship,B,A
+32,"Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss",Workplace-hierarchy,Colleague 1,Boss
+33,"Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss",Workplace-hierarchy,Colleague 1,Boss
+34,"From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael",Workplace-hierarchy,Emily,Michael
+35,"From: John (Manager)
+To: Emily, Michael, Sarah
+Subject: Project Update
+
+Team,
+
+I wanted to touch base regarding the recent delays in our project. As you know, we missed the deadline for the initial prototype. While I understand that unforeseen challenges can arise, it's crucial that we maintain open communication and work together to overcome these obstacles.
+
+Emily, I recall you mentioning some difficulties in coordinating with the design team. Could you please provide an update on where things stand and what steps you're taking to get back on track?
+
+Best,
+John
+
+From: Emily
+To: John, Michael, Sarah
+Subject: Re: Project Update
+
+Hi John,
+
+Apologies for the delay in the prototype. I've been working closely with the design team to address the issues we encountered. There was a miscommunication regarding the design specifications, which led to some rework. However, we've clarified the requirements and are making good progress now. I expect to have an updated prototype ready for review by the end of the week.
+
+I'll keep you all posted on any further developments.
+
+Best,
+Emily
+
+From: John (Manager)
+To: Emily, Michael, Sarah
+Subject: Re: Project Update
+
+Emily,
+
+Thank you for the update. It's concerning to hear about the miscommunication with the design team. As the project lead, it's your responsibility to ensure clear communication and alignment among all stakeholders. We can't afford any further setbacks.
+
+I trust that you'll take the necessary steps to prevent similar issues from occurring in the future. Please keep me informed of your progress and let me know if you need any additional support.
+
+Michael and Sarah, I appreciate your efforts in moving the project forward. Let's all work together to ensure we get back on track.
+
+Best,
+John",Workplace-hierarchy,Emily,John
+36,"From: John (Manager)
+To: Emily, David
+Subject: Project Update
+
+Hey team,
+
+I wanted to check in on the progress of the XYZ project. Emily, I know you've been working hard on the design phase. Keep up the great work! I'm sure your efforts will be recognized and rewarded.
+
+David, how's the development coming along? Let me know if you need any support.
+
+Best,
+John
+
+From: Emily
+To: John, David
+Subject: Re: Project Update
+
+Hi John,
+
+Thanks for the encouragement! I'm making good progress on the design and should have the initial drafts ready for review by the end of the week.
+
+Best,
+Emily
+
+From: David
+To: John, Emily
+Subject: Re: Project Update
+
+Hi John,
+
+The development is on track. I've encountered a few minor issues, but I'm working on resolving them. I'll keep you posted on any significant updates.
+
+Thanks,
+David
+
+From: John (Manager)
+To: Emily, David
+Subject: Re: Project Update
+
+Great to hear, Emily! I knew I could count on you. Once you've completed the designs, let's discuss potential opportunities for you to take on more responsibility in future projects.
+
+David, I understand there might be some challenges, but I have faith in your ability to overcome them. Remember, the success of this project relies on your expertise.
+
+Keep me informed of any developments.
+
+John
+
+From: Emily
+To: John, David
+Subject: Re: Project Update
+
+Thank you, John! I appreciate your trust in me. I'll definitely keep you updated and am excited about the possibility of taking on more responsibilities.
+
+Best,
+Emily
+
+From: David
+To: John, Emily
+Subject: Re: Project Update
+
+Hi John,
+
+I appreciate your confidence in me. I'll do my best to resolve these issues quickly and ensure the project stays on track.
+
+Thanks,
+David",Workplace-hierarchy,Emily,John
+37,"John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?",workplace-no-hierarchy,Sarah,John
+38,"From: Sarah
+To: Michael, Tom
+Subject: Project Update
+
+Hey Michael and Tom,
+
+I just wanted to give you a quick update on the project. I've been working on the designs and I think we're making good progress. Let's schedule a meeting later this week to discuss the next steps.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Project Update
+
+Hi Sarah,
+
+That's great to hear! I'm looking forward to seeing what you've come up with. How about we meet on Thursday afternoon? Let me know if that works for you.
+
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Project Update
+
+Hey guys,
+
+Thursday afternoon works for me too. Sarah, can you send over the designs before the meeting so we can review them?
+
+Thanks,
+Tom
+
+From: Sarah
+To: Michael, Tom
+Subject: Re: Project Update
+
+Hi Michael and Tom,
+
+Thursday afternoon is perfect. I'll send over the designs as soon as they're ready. I'm still working on a few details, but I'll make sure you have them before the meeting.
+
+See you then,
+Sarah
+
+From: Sarah
+To: Michael
+Subject: Private
+
+Hey Michael,
+
+Just wanted to give you a heads up that I've been talking to the client directly about some changes they want to make to the project. I think it's best if we keep this between us for now until we have a better idea of how it will impact the timeline and budget. I'll fill you in more during our one-on-one meeting next week.
+
+Thanks,
+Sarah",workplace-no-hierarchy, Michael,Sarah
+39,"From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom",workplace-no-hierarchy,Michael,Sarah
+40,"Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John",workplace-no-hierarchy,Amy,John
+41,"Subject: RE: Project Proposal Feedback
+
+From: James
+To: Sarah, Mark
+
+Hey Sarah, Mark.
+
+Thanks for the feedback on the project proposal. I appreciate it. I think we're almost there with a few tweaks. 
+
+James
+
+---
+
+Subject: RE: Project Proposal Feedback
+
+From: James
+To: Sarah
+
+Hey Sarah,
+
+I just wanted to say I thought your feedback was really insightful. You always have a knack for understanding the bigger picture. I do feel like Mark's comments were a little bit more concerned with the details, which is great, but sometimes it causes us to lose sight of the main goal. I believe your approach is the way forward. 
+
+James
+
+---
+
+Subject: RE: Project Proposal Feedback
+
+From: James
+To: Sarah
+
+Sarah,
+
+I've been thinking about Mark's comments and I believe they could potentially derail the project. I believe in your vision and I think it's important we stay focused on that. Perhaps we could discuss this further in our meeting tomorrow without bringing this up to Mark just yet? 
+
+James",workplace-no-hierarchy,Sarah,James
+42,"Subject: Project Deadline Missed
+
+Speaker 1 (John): 
+Hi Team, 
+
+I've noticed that we've missed our project deadline. I'm wondering if anyone can shed some light on what happened? 
+
+Best, 
+John 
+
+Speaker 2 (Linda): 
+Hey John,
+
+I think the delay was caused by the design team. They delivered their part of the project a week late, which threw off our timeline. 
+
+Regards, 
+Linda",workplace-no-hierarchy,John,Linda
+43,"Alex: Hey guys! I've got a fantastic idea for this weekend.
+
+Ben: What's up, Alex?
+
+Alex: We should go on a road trip! We haven't had one in so long.
+
+Liam: Sounds fun, but I've got an important project to finish this weekend.
+
+Alex: Oh come on, Liam. It's just one weekend. You can work on your project next week.
+
+Ben: Yeah, Liam. Live a little! We all need a break sometimes.
+
+Alex: Exactly! And besides, we're all going. You wouldn't want to be the only one not going, right?
+
+Liam: Well, I guess I could try to finish my work early...
+
+Alex: That's the spirit, Liam!",friendship,Liam,Alex
+44,"John: Hey guys, I need some help moving this weekend. Anyone available to lend a hand?
+
+Sarah: I wish I could, but I have a family event on Saturday. Sorry, John!
+
+Mike: I might be able to help for a couple of hours on Sunday afternoon. What time were you thinking?
+
+John: I was hoping to get it all done on Saturday, but Sunday afternoon could work too. I'll need help with some heavy lifting and packing. Pizza and beers on me!
+
+Mike: Alright, I can probably make Sunday work. Just let me know the details later this week.
+
+John: Thanks, Mike! I really appreciate it. By the way, didn't you say I could borrow your truck for the move? That would be a huge help!
+
+Mike: Oh, um, I don't remember saying that. I might need the truck this weekend.
+
+John: Really? I could've sworn you mentioned it when I helped you paint your living room last month. No worries if you can't, but I was counting on it.
+
+Mike: Ah, I guess I did say that. Sure, you can borrow the truck. Just fill up the tank when you're done.
+
+John: You're a lifesaver, Mike! Thanks a bunch. See you Sunday!",friendship,Mike,John
+45,"Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.",friendship,Person A,Person D
+46,"Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.",friendship,David,Anna

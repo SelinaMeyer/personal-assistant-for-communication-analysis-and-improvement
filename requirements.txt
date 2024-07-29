@@ -1,0 +1,23 @@
+openai
+fireworks-ai
+anthropic
+ollama
+pandas
+numpy
+matplotlib
+ipykernel
+python-dotenv
+torch 
+torchvision --extra-index-url https://download.pytorch.org/whl/rocm5.2
+streamlit
+sqlalchemy
+psycopg2-binary
+google-generativeai
+scikit-learn
+Django>=3.2.3,<3.3
+psycopg2>=2.8.6,<2.9
+werkzeug
+django-extensions
+pyOpenSSL
+gradio
+docker

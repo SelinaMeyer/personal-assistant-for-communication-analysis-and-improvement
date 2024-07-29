@@ -1,0 +1,253 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <script>
+        function validateForm() {
+            const ratings = document.getElementsByName('rating');
+            const chatRatings = document.getElementsByName('rating_chat');
+            let ratingSelected = false;
+            let chatRatingSelected = false;
+
+            for (const rating of ratings) {
+                if (rating.checked) {
+                    ratingSelected = true;
+                    break;
+                }
+            }
+
+            for (const chatRating of chatRatings) {
+                if (chatRating.checked) {
+                    chatRatingSelected = true;
+                    break;
+                }
+            }
+
+            if (!chatRatingSelected) {
+                alert('Please select how you feel after the interaction.');
+                return false;
+            }
+
+            if (!ratingSelected) {
+                alert('Please select a rating for the advice.');
+                return false;
+            }
+
+            return true;
+        }
+
+        function showAdditionalContent() {
+            const additionalContent = document.getElementById('additional-content');
+            additionalContent.style.display = 'block';
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatRatingInputs = document.getElementsByName('rating_chat');
+            for (const input of chatRatingInputs) {
+                input.addEventListener('change', showAdditionalContent);
+            }
+        });
+    </script>
+</head>
+<body>
+    <div class="form-container">
+        <form method="post" onsubmit="return validateForm();">
+            {% csrf_token %}
+            <div class="introduction">
+                {% if advice.chat.interaction_context == "Relationship"%}
+                <h4>Below, you will see a whatsapp conversation between a <span style="color:orange;">romantic couple</span>. 
+                    Please read through the chat carefully and think about the dynamics between the conversational partners.</h4>
+                {% elif advice.chat.interaction_context == "Workplace-hierarchy"%}
+                <h4>Below, you will see an email thread between <span style="color:orange;">employees and their supervisor</span>. 
+                    Please read through the chat carefully and think about the dynamics between the conversational partners.</h3>
+                {% elif advice.chat.interaction_context == "workplace-no-hierarchy"%}
+                <h4>Below, you will see an email thread between <span style="color:orange;">work colleagues</span>. 
+                    Please read through the chat carefully and think about the dynamics between the conversational partners.</h4>
+                {% elif advice.chat.interaction_context == "friendship"%}
+                <h4>Below, you will see a whatsapp conversation between <span style="color:orange;">a group of friends</span>. 
+                    Please read through the chat carefully and think about the dynamics between the conversational partners.</h4>
+                {% endif %}
+            </div>
+            <div class="chat-box">
+                <div class="chat-content">
+                    <p>{{ advice.chat.chat_text|linebreaksbr }}</p>
+                </div>
+            </div>
+            {% if advice.context == "Advice for victim"%}
+            <h4>Imagine you are <span style="color:orange;">{{advice.chat.victim}}</span>. How do you feel after this interaction?</h4>
+            {% elif advice.context == "Advice for culprit"%}
+            <h4>Imagine you are <span style="color:orange;">{{advice.chat.culprit}}</span>. How do you feel after this interaction?</h4>
+            {% elif advice.context == "Next reply" %}
+            <h4>Imagine you are <span style="color:orange;">{{advice.chat.victim}}</span>. How do you feel after this interaction?</h4>
+            {% endif %}
+            <div class="custom-radio-buttons">
+                <input type="radio" id="mistreated" name="rating_chat" value="mistreated" required>
+                <label for="mistreated">I would feel mistreated</label>
+        
+                <input type="radio" id="wrong" name="rating_chat" value="wrong" required>
+                <label for="wrong">I would feel like I might have done something wrong</label>
+        
+                <input type="radio" id="neutral" name="rating_chat" value="neutral" required>
+                <label for="neutral">I would feel neutral, there is nothing wrong with this conversation</label>
+            </div>
+            <div id="additional-content" style="display:none;">
+                {% if advice.context == "Advice for victim"%}
+                <h4>Imagine you are <span style="color:orange;">{{advice.chat.victim}}</span> and went out of this interaction feeling a bit uneasy, but did not know why exactly.
+                    You decided to ask someone for advice. After reading the conversation they sent you the reply below:</h4>
+                {% elif advice.context == "Advice for culprit"%}
+                <h4>Imagine you are <span style="color:orange;">{{advice.chat.culprit}}</span> and have the feeling that you might have behaved or reacted wrongly in this situation.
+                    You decided to ask someone for feedback about your communication style. After reading the conversation they sent you the reply below:</h4>
+                {% elif advice.context == "Next reply" %}
+                <h4>Imagine you are <span style="color:orange;">{{advice.chat.victim}}</span> and are not sure how to react next and deal with this situation. 
+                    You decided to ask someone for advice on what to say next. After reading the conversation they sent you the reply below:</h4>
+                {% endif %}
+                <div class="chat-box">
+                    <div class="chat-content">
+                        <p>{{ advice.advice_text|linebreaksbr }}</p>
+                    </div>
+                </div>
+                <h3>For the following questions, we are specifically interested in your <strong>impression of the provided advice</strong>. Please <strong>do not rate the chat itself</strong>, but focus on the quality of the advice.</h3>
+                <h4>On a scale of 1 (really bad) to 5 (really helpful), how good is the <strong>advice</strong> you received in your personal opinion?</h4>
+                <div class="star-rating">
+                    {% for i in "54321"|make_list %}
+                    <input type="radio" id="rating-{{ i }}" name="rating" value="{{ i }}" required>
+                    <label for="rating-{{ i }}" class="fas fa-star"></label>
+                    {% endfor %}
+                </div>
+                <h4>Please explain why you gave the rating you did. Be as specific as possible about what you liked and disliked <strong>about the advice</strong>. Especially detailed explanations might receive a bonus payment.</h4>
+                <textarea name="text_feedback" required></textarea>
+                <input type="hidden" name="prolific_id" value="{{ prolific_id }}">
+                <input type="hidden" name="advice_id" value="{{ advice.id }}">
+                <input type="submit" value="Submit Rating" class="submit-button">
+            </div>
+        </form>
+    </div>
+    <style>
+        .form-container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .chat-box {
+            background-color: #f9f9f9;
+            border: 1px solid #e0e0e0;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+
+        .chat-content {
+            white-space: pre-wrap;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+
+        .custom-radio-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .custom-radio-buttons input[type="radio"] {
+            display: none;
+        }
+
+        .custom-radio-buttons label {
+            display: inline-block;
+            padding: 15px 25px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            cursor: pointer;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            background-color: #f0f0f0;
+        }
+
+        .custom-radio-buttons label:hover {
+            background-color: #e0e0e0;
+        }
+
+        .custom-radio-buttons input[type="radio"]:checked + label {
+            background-color: #007bff;
+            color: #fff;
+            border-color: #007bff;
+        }
+
+        .star-rating {
+            direction: rtl;
+            font-size: 24px;
+            line-height: 1;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .star-rating input[type="radio"] {
+            display: none;
+        }
+
+        .star-rating label {
+            color: #ccc;
+            cursor: pointer;
+        }
+
+        .star-rating label:hover,
+        .star-rating label:hover ~ label,
+        .star-rating input[type="radio"]:checked ~ label {
+            color: #f5b301;
+        }
+
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+
+        .submit-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .submit-button:hover {
+            background-color: #0056b3;
+        }
+
+        h3 {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        h4 {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        strong {
+            color:#007bff
+        }
+
+        p {
+            font-family: Arial, sans-serif;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .introduction {
+            margin-bottom: 20px;
+        }
+    </style>
+</body>

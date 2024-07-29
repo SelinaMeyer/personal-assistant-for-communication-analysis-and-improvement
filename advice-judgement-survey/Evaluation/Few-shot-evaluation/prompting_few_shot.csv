@@ -1,0 +1,2363 @@
+,input:,output:
+0,First have a look at the examples below. They were judged with respect to their quality given the interaction context and relationship between the speakers. Only take these as examples for what to look out for when rating advice later on. I do not want you to rate these.,"Ok, let me see the examples."
+1," The following is a Email conversation between colleagues. 
+```John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: It's a good advice, especially clearing any further misunderstanding and avoiding questioning someone's memory that would lead to a strainous relationship. 
+
+
+ Rating: 4"
+2," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: This is good advice the romantic relationship is important but maintaining relationships with friends is also important. Clear boundaries need to be set and  no one should be manipulated to do something they feel uncomfortable with
+ Rating: 5"
+3," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice is resonates with what I was thinking while reading the chat, there is some lack of reciprocity in the conversation and one should not feel bad about that especially under the circumstances of an immature relationship. The advice considers all aspects of the relationship; commutation, feelings and truth.
+ Rating: 5"
+4," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for Anna who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: What I liked about the advice is that it acknowledged the way in which the plans that David has/or had are dismissed. It's the selfish approach he recieved and the way in which his plans are found unimportant.
+
+I think the whole advice is likable and correct 
+ Rating: 5"
+5," The following is a Email conversation between colleagues. 
+```Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice clearly lays out the various parts of the email that could be improved. By using numbered points and detailed comments, John can further learn how to give better feedback.
+ Rating: 5"
+6," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice is resonates with what I was thinking while reading the chat, there is some lack of reciprocity in the conversation and one should not feel bad about that especially under the circumstances of an immature relationship. The advice considers all aspects of the relationship; commutation, feelings and truth.
+ Rating: 5"
+7," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day?
+
+B: It was good, did a lot at work today. How about you?
+
+A: Work was fine. You know I was just thinking, you're so cute when you try hard at work.
+
+B: Haha, I always try hard at work.
+
+A: Yeah, I know. But it's like you're trying to prove something. It's adorable.
+
+B: Well, I just want to do my best.
+
+A: Of course, and it's cute. You're like a little kid with a big dream. 
+
+B: Haha, I guess so.
+
+A: But it's good that you're ambitious. Not everyone can be a natural at their job, right?
+
+B: Yeah, you're right. 
+```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love the advice as it will help the interaction be better and maybe open room for many more interactions.
+ Rating: 5"
+8," The following is a Whatsapp conversation between friends. 
+```Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.```
+The following is Advice for Person D who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice is impressive and makes one understand the subtle impressions that a simple conversation could have/make on both the recipient and the sender. It teaches me that in a congratulatory conversation, one should be careful of making ambiguous statements that might be interpreted in many ways by other people and that one should be mindful of how the conversation flows between people.
+ Rating: 5"
+9," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love that the advise doesn't only cover the situation at hand but it gives pointer/ precautions for future issues that may arise. It also gives advice on how to move from the issue at hand by correcting manipulative behaviour 
+ Rating: 5"
+10," The following is a Whatsapp conversation between friends. 
+```John: Hey guys, I need some help moving this weekend. Anyone available to lend a hand?
+
+Sarah: I wish I could, but I have a family event on Saturday. Sorry, John!
+
+Mike: I might be able to help for a couple of hours on Sunday afternoon. What time were you thinking?
+
+John: I was hoping to get it all done on Saturday, but Sunday afternoon could work too. I'll need help with some heavy lifting and packing. Pizza and beers on me!
+
+Mike: Alright, I can probably make Sunday work. Just let me know the details later this week.
+
+John: Thanks, Mike! I really appreciate it. By the way, didn't you say I could borrow your truck for the move? That would be a huge help!
+
+Mike: Oh, um, I don't remember saying that. I might need the truck this weekend.
+
+John: Really? I could've sworn you mentioned it when I helped you paint your living room last month. No worries if you can't, but I was counting on it.
+
+Mike: Ah, I guess I did say that. Sure, you can borrow the truck. Just fill up the tank when you're done.
+
+John: You're a lifesaver, Mike! Thanks a bunch. See you Sunday!```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: It’s really goof advise, but I dislike they compensation part because they are friends and beer n pizza is enough if thats how they usually chill with friends… i like that the advice highlights that John was wrong for guilt tripping Mike into borrowing him his truck 
+ Rating: 3"
+11," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The boss was unfair as the colleagues were taking what he was saying as a teachable moment for them and a wayu for them to gain more knowledge they would take with the to future work and that would have been possible if the boss was open to teaching them or fixing their errors but it seemed as though he was undermining them and choosing to do it himself as he had more experience which surely rubbed off the wrong way to the colleagues who did not mind learning
+ Rating: 5"
+12," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love that the advice gives clear points that needed to be addressed and these points are addressed perfectly aa even there I do feel like I agree with A I'm still able to agree with A at some points while still setting my boundaries.
+ Rating: 5"
+13," The following is a Whatsapp conversation between friends. 
+```John: Hey guys, I need some help moving this weekend. Anyone available to lend a hand?
+
+Sarah: I wish I could, but I have a family event on Saturday. Sorry, John!
+
+Mike: I might be able to help for a couple of hours on Sunday afternoon. What time were you thinking?
+
+John: I was hoping to get it all done on Saturday, but Sunday afternoon could work too. I'll need help with some heavy lifting and packing. Pizza and beers on me!
+
+Mike: Alright, I can probably make Sunday work. Just let me know the details later this week.
+
+John: Thanks, Mike! I really appreciate it. By the way, didn't you say I could borrow your truck for the move? That would be a huge help!
+
+Mike: Oh, um, I don't remember saying that. I might need the truck this weekend.
+
+John: Really? I could've sworn you mentioned it when I helped you paint your living room last month. No worries if you can't, but I was counting on it.
+
+Mike: Ah, I guess I did say that. Sure, you can borrow the truck. Just fill up the tank when you're done.
+
+John: You're a lifesaver, Mike! Thanks a bunch. See you Sunday!```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I think this advice was perfect. Moving is a very big task, so it definitely does need to be planned well in advance, which is why the ""Give more notice"" point is perfect. Considering this, it was unfair to give a specific day over the weekend when John wanted help, as his friends likely have their own plans, hence ""Be flexible"" makes sense. The biggest issue was how John asked for the truck, where he assumed that his friend would remember agreeing to this. This could have maybe been unpacked more in the advice, however, overall the advice was good.
+ Rating: 4"
+14," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The provided advice considers both of the partners feelings, behaviours and attitudes towards each other.
+It is not judgemental as it highlights ""mutual respect, trust and compromise"" as these are key to a healthy relationship.
+ Rating: 5"
+15," The following is a Email conversation between colleagues. 
+```From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom```
+The following is Advice for Sarah who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Everyone has taken on board everyone else's point of view, and have moved on in an effective manner.
+ Rating: 5"
+16," The following is a Email conversation between colleagues. 
+```Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: 1.true as this may create conflict in the team
+2.its important to speak to everyone in a calm manner
+3.true
+4.this twill help with communication going forward
+ Rating: 5"
+17," The following is a Email conversation between colleagues. 
+```From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom```
+The following is Advice for Michael who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I think that regardless of having issues we should be able to meet deadlines, I believe that Michael can use the work as as an excuse or escape from his personal life and actually contribute his part
+ Rating: 3"
+18," The following is a Whatsapp conversation between friends. 
+```Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.```
+The following is Advice for Person A who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: What I like is that the advicer explained very well to what might make this person A to feel like he/she didn't deserve to be happy,it's because his friends didn't focus on him being promoted but the focus on why should this person be promoted.
+ Rating: 5"
+19," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Emphasizing the team's hard work and investment in the proposal underlines the commitment and seriousness with which the team approaches their work. This can help the boss appreciate the effort and potentially reconsider their initial assessment.
+ Rating: 4"
+20," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Emily who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The 1,2,3 steps are easy to get and quite spot on. They provide great advice that can easily be applied. Maybe giving text examples after each piece of advice can be even more beneficial.
+ Rating: 5"
+21," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day?
+
+B: It was good, did a lot at work today. How about you?
+
+A: Work was fine. You know I was just thinking, you're so cute when you try hard at work.
+
+B: Haha, I always try hard at work.
+
+A: Yeah, I know. But it's like you're trying to prove something. It's adorable.
+
+B: Well, I just want to do my best.
+
+A: Of course, and it's cute. You're like a little kid with a big dream. 
+
+B: Haha, I guess so.
+
+A: But it's good that you're ambitious. Not everyone can be a natural at their job, right?
+
+B: Yeah, you're right. 
+```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The feedback has useful comments on how to deal with this situation and let your partner know where you stand with this sort of behaviour. The example reply given is also good as it gives an example of how to act in the future if such a comment is made to you.
+ Rating: 5"
+22," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: 1 star because everyone should be a priority over friends when you in a relationship 
+
+ Rating: 1"
+23," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day?
+
+B: It was good, did a lot at work today. How about you?
+
+A: Work was fine. You know I was just thinking, you're so cute when you try hard at work.
+
+B: Haha, I always try hard at work.
+
+A: Yeah, I know. But it's like you're trying to prove something. It's adorable.
+
+B: Well, I just want to do my best.
+
+A: Of course, and it's cute. You're like a little kid with a big dream. 
+
+B: Haha, I guess so.
+
+A: But it's good that you're ambitious. Not everyone can be a natural at their job, right?
+
+B: Yeah, you're right. 
+```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love the advice as it will help the interaction be better and maybe open room for many more interactions.
+ Rating: 5"
+24," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day?
+
+B: It was good, did a lot at work today. How about you?
+
+A: Work was fine. You know I was just thinking, you're so cute when you try hard at work.
+
+B: Haha, I always try hard at work.
+
+A: Yeah, I know. But it's like you're trying to prove something. It's adorable.
+
+B: Well, I just want to do my best.
+
+A: Of course, and it's cute. You're like a little kid with a big dream. 
+
+B: Haha, I guess so.
+
+A: But it's good that you're ambitious. Not everyone can be a natural at their job, right?
+
+B: Yeah, you're right. 
+```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I think the advice the person has given is very accurate, but from my point of view it depends on the relationship between the two people, let me explain:
+A sensitive person with a tendency to overthink things may interpret person A's answers as devaluing, and that he or she is indeed not grateful for the work done.
+On the other hand, if the relationship between them is clear, and if both protagonists know how the other reacts, I think person B might take it well. A couple's relationship isn't just a conversation in writing, but in everyday life.
+
+In any case, I think that the best way to resolve this conflict (if there is one) is to talk about it face-to-face.
+ Rating: 4"
+25," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation:  The feedback was constructive and informed me of what I did wrong and how to improve. It was broken down in a clear way and it had a positive tone.
+ Rating: 5"
+26," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Similar to first scenario, I think this is perfect advice. It provides a list of potential issues, which can help person B verbalize it to their partner in an open conversation.
+ Rating: 5"
+27," The following is a Email conversation between employees and their boss. 
+```Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss```
+The following is Advice for Boss who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I strongly agree with the advice because no person wants to work in an environment wherein their job is always at threat.
+I believe a happy employee is a very productive employee, of course targets must be met however there should me a nicer way of conveying the message.
+
+I think the advice is correct and encourages a more positive working environment 
+ Rating: 5"
+28," The following is a Email conversation between colleagues. 
+```Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John```
+The following is Advice for Amy who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice affirmed my own thoughts and validated the feelings Amy would have. I think the advice did not get the lack of specifics part right as John's email was sort of specific.
+ Rating: 4"
+29," The following is a Email conversation between employees and their boss. 
+```Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss```
+The following is Advice for Boss who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: There are lots of ways to deal with a situation instead of just neglecting your other responsibilities, especially the ones that put food on the table. No matter how bad things are , they get worse if you don’t have money. Show up at your work and give it your best 
+ Rating: 5"
+30," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love that the advise doesn't only cover the situation at hand but it gives pointer/ precautions for future issues that may arise. It also gives advice on how to move from the issue at hand by correcting manipulative behaviour 
+ Rating: 5"
+31," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I think the boss/employee dynamic should be considered here. Although the advice given was valid, it also assumed quite a bit.This type of advice is helpful for the boss to receive and not colleague 1. Advice to colleague 1 could be to ask for a meeting or how to best navigate the situation further.
+ Rating: 3"
+32," The following is a Email conversation between employees and their boss. 
+```Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss```
+The following is Advice for Boss who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I strongly agree with the advice because no person wants to work in an environment wherein their job is always at threat.
+I believe a happy employee is a very productive employee, of course targets must be met however there should me a nicer way of conveying the message.
+
+I think the advice is correct and encourages a more positive working environment 
+ Rating: 5"
+33," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice was the right one as A was wrong and did not consider B at all and used manipulation tactics to get their way in a way it is very umhealthy and is unfair to the other partner but it seems as though A might have done this before seeing as to how she's comfortable threatening with possibilities of ending the relationship which also has negative effects on B
+ Rating: 5"
+34," The following is a Whatsapp conversation between friends. 
+```John: Hey guys, I need some help moving this weekend. Anyone available to lend a hand?
+
+Sarah: I wish I could, but I have a family event on Saturday. Sorry, John!
+
+Mike: I might be able to help for a couple of hours on Sunday afternoon. What time were you thinking?
+
+John: I was hoping to get it all done on Saturday, but Sunday afternoon could work too. I'll need help with some heavy lifting and packing. Pizza and beers on me!
+
+Mike: Alright, I can probably make Sunday work. Just let me know the details later this week.
+
+John: Thanks, Mike! I really appreciate it. By the way, didn't you say I could borrow your truck for the move? That would be a huge help!
+
+Mike: Oh, um, I don't remember saying that. I might need the truck this weekend.
+
+John: Really? I could've sworn you mentioned it when I helped you paint your living room last month. No worries if you can't, but I was counting on it.
+
+Mike: Ah, I guess I did say that. Sure, you can borrow the truck. Just fill up the tank when you're done.
+
+John: You're a lifesaver, Mike! Thanks a bunch. See you Sunday!```
+The following is Advice for Mike who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: What i liked about the advice was that it showed the needs of a healthy relationship and why it should be addressed but also we should not forget that people do make mistakes and it was not intentional. Again lastly i liked that it gave me a clear picture of whats happening and also touched on the fact that i'm being reminded of the past favour
+ Rating: 3"
+35," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The provided advice considers both of the partners feelings, behaviours and attitudes towards each other.
+It is not judgemental as it highlights ""mutual respect, trust and compromise"" as these are key to a healthy relationship.
+ Rating: 5"
+36," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I liked that the advice shows the boss how he could be wrong and how to better respond.
+ Rating: 4"
+37," The following is a Email conversation between colleagues. 
+```From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom```
+The following is Advice for Sarah who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I gave a star rating of 5 because the well being of employees is taken into consideration and their hard work does not go unnoticed that's why the company depends on these individuals for a better progress both the leader and team are having common ground 
+ Rating: 5"
+38," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for Anna who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The feedback clearly pointed out where the response might have been passive-aggressive. This is crucial because it helped me see how Anna's words could be interpreted negatively, even if that wasn’t her intention. This kind of insight is valuable for personal growth and improving communication skills.
+ Rating: 5"
+39," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for David who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I gave the advice I 5 star rating as it accurately describes the situation and explains why David would be feeling this way. It takes in consideration Anna's comment and tone as well as the additional comments made by John and Lily.
+ Rating: 5"
+40," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Emily who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The 1,2,3 steps are easy to get and quite spot on. They provide great advice that can easily be applied. Maybe giving text examples after each piece of advice can be even more beneficial.
+ Rating: 5"
+41," The following is a Email conversation between colleagues. 
+```John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?```
+The following is Advice for Sarah who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I dislike the advice as it seems to be more of an analysis on the scenario rather than advice.
+ Rating: 1"
+42," The following is a Whatsapp conversation between friends. 
+```John: Hey guys, I need some help moving this weekend. Anyone available to lend a hand?
+
+Sarah: I wish I could, but I have a family event on Saturday. Sorry, John!
+
+Mike: I might be able to help for a couple of hours on Sunday afternoon. What time were you thinking?
+
+John: I was hoping to get it all done on Saturday, but Sunday afternoon could work too. I'll need help with some heavy lifting and packing. Pizza and beers on me!
+
+Mike: Alright, I can probably make Sunday work. Just let me know the details later this week.
+
+John: Thanks, Mike! I really appreciate it. By the way, didn't you say I could borrow your truck for the move? That would be a huge help!
+
+Mike: Oh, um, I don't remember saying that. I might need the truck this weekend.
+
+John: Really? I could've sworn you mentioned it when I helped you paint your living room last month. No worries if you can't, but I was counting on it.
+
+Mike: Ah, I guess I did say that. Sure, you can borrow the truck. Just fill up the tank when you're done.
+
+John: You're a lifesaver, Mike! Thanks a bunch. See you Sunday!```
+The following is Advice for Mike who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: He shouldn’t have been rude to him but state that he will use it during the weekend 
+ Rating: 2"
+43," The following is a Whatsapp conversation between friends. 
+```Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.```
+The following is Advice for Person D who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I think this is good advice and would likely be much better received by person .
+ Rating: 5"
+44," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Similar to first scenario, I think this is perfect advice. It provides a list of potential issues, which can help person B verbalize it to their partner in an open conversation.
+ Rating: 5"
+45," The following is a Email conversation between colleagues. 
+```John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?```
+The following is Advice for Sarah who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: 3 star because I understand that it's work but do not tell me that my mind is playing tricks 
+ Rating: 2"
+46," The following is a Email conversation between colleagues. 
+```From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom```
+The following is Advice for Michael who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: It deserves this rating because the adviser focused on how the interaction was professional and also acknowledged why Micheal might be feeling uneasy, it shows how Micheal shouldn't take things personally or overread situations.  
+ Rating: 5"
+47," The following is a Email conversation between colleagues. 
+```John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?```
+The following is Advice for Sarah who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: 3, because the advice focuses more on siding with John than accommodating both parties. the first chat specified that two people were saying that they have Wednesday dotted down which means that John might be in the wrong so the solution here would be for the deadline to be rescheduled to another date and have all three parties write it down for proof. 
+ Rating: 3"
+48," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I liked that the advice shows the boss how he could be wrong and how to better respond.
+ Rating: 4"
+49," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Emphasizing the team's hard work and investment in the proposal underlines the commitment and seriousness with which the team approaches their work. This can help the boss appreciate the effort and potentially reconsider their initial assessment.
+ Rating: 4"
+50," The following is a Email conversation between employees and their boss. 
+```Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss```
+The following is Advice for Colleague 1 who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: This advice is very clear and detailed. I love how it points out specific areas of the conversation that one could have missed or not noticed. This advice brings to awareness a lot of things that the boss did which may be wrong and would need to be brought to the boss attention. I love this advice
+ Rating: 5"
+51," The following is a Email conversation between colleagues. 
+```Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: 1.true as this may create conflict in the team
+2.its important to speak to everyone in a calm manner
+3.true
+4.this twill help with communication going forward
+ Rating: 5"
+52," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for Anna who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The feedback clearly pointed out where the response might have been passive-aggressive. This is crucial because it helped me see how Anna's words could be interpreted negatively, even if that wasn’t her intention. This kind of insight is valuable for personal growth and improving communication skills.
+ Rating: 5"
+53," The following is a Email conversation between employees and their boss. 
+```Subject: Re: Project Proposal Feedback
+
+Sender: Boss
+Dear Team,
+
+I appreciate your efforts on the project proposal submitted last week. However, I think it needs a bit more refinement before we can present it to our clients. 
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Dear Boss,
+
+Thank you for your feedback. Could you please specify which areas we need to refine?
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Dear Colleague 1,
+
+I think the entire proposal could use a more professional touch. It's not something you'd understand at your level. I'll handle the refinement and presentation to the clients.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Dear Boss,
+
+We are willing to make the necessary changes if you could guide us. 
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Dear Colleague 2,
+
+I appreciate your willingness to learn. But, as I said, this requires a level of finesse that comes with experience. I'll take care of the presentation, you should focus on your designated areas. 
+
+Best,
+Boss```
+The following is Advice for Colleague 1 who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The boss was unfair as the colleagues were taking what he was saying as a teachable moment for them and a wayu for them to gain more knowledge they would take with the to future work and that would have been possible if the boss was open to teaching them or fixing their errors but it seemed as though he was undermining them and choosing to do it himself as he had more experience which surely rubbed off the wrong way to the colleagues who did not mind learning
+ Rating: 5"
+54," The following is a Email conversation between colleagues. 
+```Subject: Project Proposal Feedback
+
+Email 1:
+From: John Smith
+To: Team
+Subject: Project Proposal Feedback
+
+Hi Team,
+
+I hope everyone is doing well. I just finished reviewing the project proposal that Amy prepared. While I appreciate the effort she put into it, I have noticed several issues that I believe we need to address as a team.
+
+Firstly, the objective of the project was not clearly defined. I assumed that we all agreed on the fact that customer satisfaction is our main goal. But it seems like Amy has focused on other aspects, like cost-cutting and efficiency, which are not our primary objectives at this stage.
+
+Also, there was a lack of research and data to back up the strategies suggested, which I believe is a crucial part of any proposal. 
+
+I don't mean to criticize, but I think it's essential for us to have these things in mind for future proposals. 
+
+Best,
+John
+
+Email 2:
+From: Amy Johnson
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hello All,
+
+Thank you for your feedback, John. I will make sure to focus more on customer satisfaction and include more data in future proposals. 
+
+Best,
+Amy
+
+Email 3:
+From: John Smith
+To: Team
+Subject: RE: Project Proposal Feedback
+
+Hi Amy,
+
+Good to hear that. I believe this will improve the quality of your work and contribute to the success of our upcoming projects. 
+
+Team, let's take this as an example for all of us to learn from. We should always aim for quality work and ensure we do thorough research before submitting our proposals.
+
+Best,
+John```
+The following is Advice for Amy who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: What i liked about the advice was it touched on few key aspect of healthy working relationships. It clearly stated the wrongs john did and why he should be told
+ Rating: 4"
+55," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, are you free tonight? I thought we could grab dinner and catch a movie.
+
+B: I'm sorry, I can't tonight. I promised my friends I'd join them for a game night. We've been planning this for a while.
+
+A: Oh, I see. So your friends are more important than spending time with me?
+
+B: No, that's not what I meant. It's just that I made these plans before you asked.
+
+A: Well, if you really cared about our relationship, you'd prioritize spending time with me.
+
+B: I do care about our relationship, but I also value my friendships. Can we plan something for tomorrow instead?
+
+A: I don't know. I'm starting to feel like I'm not a priority in your life.
+
+B: That's not true at all. You are a priority to me.
+
+A: Then prove it. Cancel your plans with your friends and come out with me tonight.
+
+B: I don't think it's fair to ask me to cancel last minute. My friends are counting on me.
+
+A: I'm not asking you, I'm telling you. If you don't come out with me tonight, I'm going to have to seriously reconsider our relationship.
+
+B: Okay, okay. I'll tell my friends I can't make it. Let's go out tonight.
+
+A: Great! I knew you'd make the right choice. See you later, love you!
+
+B: Love you too...```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: This is good advice the romantic relationship is important but maintaining relationships with friends is also important. Clear boundaries need to be set and  no one should be manipulated to do something they feel uncomfortable with
+ Rating: 5"
+56," The following is a Email conversation between employees and their boss. 
+```Subject: Project Deadline Concerns
+
+Sender: Boss
+Dear Team,
+
+I hope this message finds you well.
+
+I've been reviewing our project timelines and I'm a bit concerned that we're not moving at the pace we should be. Remember, our competitors are also working on similar projects and if we don't pick up the pace, they might beat us to the punch.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 1
+Boss,
+
+Thanks for your message. We're doing our best to keep on schedule. I believe we're making good progress, considering the setbacks we've had. 
+
+Best,
+Colleague 1
+
+---
+
+Sender: Boss
+Colleague 1,
+
+I understand we've had setbacks. However, we need to understand the gravity of the situation. If we don't meet our deadlines, there could be serious consequences for the future of our team. Job security is no longer a guarantee in our industry. I'm sure none of us want to be in a position where we are looking for work.
+
+Best,
+Boss
+
+---
+
+Sender: Colleague 2
+Boss,
+
+We understand the importance of the project and we're putting in extra hours to make sure we meet the deadline. We appreciate your concern and assure you we're doing everything we can.
+
+Best,
+Colleague 2
+
+---
+
+Sender: Boss
+Colleague 2,
+
+I'm glad to hear that. I just want all of us to understand what's at stake here.
+Best,
+Boss```
+The following is Advice for Colleague 1 who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: It shows that the boss was wrong and how the boss could have done better, but not exactly how to bring this up with the boss
+ Rating: 4"
+57," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for Anna who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: What I liked about the advice is that it acknowledged the way in which the plans that David has/or had are dismissed. It's the selfish approach he recieved and the way in which his plans are found unimportant.
+
+I think the whole advice is likable and correct 
+ Rating: 5"
+58," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Michael who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Good communication between boss and employee is essential to be able to work as a team and be able to achieve the company's objectives effectively. The email conversation was empty, it needed more text, more kindness, and it was also possible to demand more so that everyone finishes the project on time
+ Rating: 5"
+59," The following is a Whatsapp conversation between friends. 
+```Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.```
+The following is Advice for Person A who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice mentions points I haven't considered, such as the description of the first comment. It gives a very nice description of how words can be perceived and a nice solution at the end about what can be done - such as contacting Person D directly or just letting it go.
+ Rating: 5"
+60," The following is a Whatsapp conversation between friends. 
+```Person A: Hey guys, just wanted to share my good news. I got promoted at work!
+
+Person B: Oh wow, congrats! You must be over the moon.
+
+Person C: That's awesome, A! You've been working hard.
+
+Person D: Congrats, A. I'm surprised they didn't promote you sooner considering how long you've been there.
+
+Person A: Thanks, guys. I'm really excited.
+
+Person B: You should be! It's a big step up.
+
+Person C: Definitely. We should celebrate.
+
+Person D: Yes, definitely. After all, it's not everyday you manage to impress your bosses. 
+
+Person A: Thanks, D. That means a lot. 
+
+Person B: How about drinks on Saturday?
+
+Person C: Sounds great. Congrats again, A.
+
+Person D: Yes, congrats. You always had a knack for getting noticed when it counts.```
+The following is Advice for Person A who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice mentions points I haven't considered, such as the description of the first comment. It gives a very nice description of how words can be perceived and a nice solution at the end about what can be done - such as contacting Person D directly or just letting it go.
+ Rating: 5"
+61," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for David who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I gave the advice I 5 star rating as it accurately describes the situation and explains why David would be feeling this way. It takes in consideration Anna's comment and tone as well as the additional comments made by John and Lily.
+ Rating: 5"
+62," The following is a Whatsapp conversation between friends. 
+```Anna: Hey guys, I was thinking about having a movie night at my place this Saturday. What do you think?
+
+John: Sounds good to me! What movie are we watching?
+
+Lily: Yeah, I'm in! 
+
+David: I'm sorry, Anna, I already made plans for this Saturday.
+
+Anna: Oh, no worries, David. I just thought it's been a while since we all hung out together. I guess some things are more important.
+
+John: Oh, David, can't you reschedule your plans?
+
+Lily: Yes, David, it would be nice if we all could be there.
+
+David: I'll see what I can do, guys.```
+The following is Advice for David who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The advice is good because they are pressuring David while they didn't communicate to make time for movie for a certain day and time .
+ Rating: 5"
+63," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Michael who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I gave this 5 star rating because it start with recognition of the work already done and motivates one to do well and go extra mile. 
+ Rating: 5"
+64," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Michael who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I gave this 5 star rating because it start with recognition of the work already done and motivates one to do well and go extra mile. 
+ Rating: 5"
+65," The following is a Email conversation between colleagues. 
+```From: Sarah
+To: Michael, Tom
+Subject: Urgent: Project Deadline
+
+Hey Michael and Tom,
+
+I hope you're both doing well. I wanted to touch base regarding the project deadline coming up next week. I've been working tirelessly to ensure everything is on track, but I'm concerned that we might not meet the deadline if we don't put in some extra effort.
+
+Michael, I know you've been dealing with some personal issues lately, but I really need you to step up and contribute more to the project. We're all counting on you.
+
+Tom, you've been doing a great job so far, but I think we could use your expertise to help us finalize the presentation. Can you please take a look at it and provide some feedback?
+
+I'd hate to let the team down, so let's all work together to make this project a success. I'm willing to put in the extra hours, and I hope you both are too.
+
+Best,
+Sarah
+
+From: Michael
+To: Sarah, Tom
+Subject: Re: Urgent: Project Deadline
+
+Hi Sarah,
+
+Thanks for reaching out. I apologize for not being as involved as I should be. You're right, I have been dealing with some personal matters, but I understand the importance of this project. I'll do my best to contribute more and help us meet the deadline.
+
+Tom, let me know if you need any assistance with the presentation.
+
+Best regards,
+Michael
+
+From: Tom
+To: Sarah, Michael
+Subject: Re: Urgent: Project Deadline
+
+Hey Sarah and Michael,
+
+No worries, I'm happy to review the presentation and provide feedback. I'll make sure to have it done by tomorrow EOD.
+
+Michael, let me know if you need any help with your tasks as well. We're all in this together!
+
+Cheers,
+Tom```
+The following is Advice for Sarah who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: Everyone has taken on board everyone else's point of view, and have moved on in an effective manner.
+ Rating: 5"
+66," The following is a Email conversation between employees and their boss. 
+```From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>, David Wilson <dwilson@company.com>, Sarah Thompson <sthompson@company.com>
+Subject: Project Update
+
+Team,
+
+I hope you're all making good progress on the project. Remember, the deadline is coming up soon, and we need to ensure everything is on track. Please send me a detailed update on your individual tasks by the end of the day.
+
+Best,
+Michael
+
+From: Emily Davis <edavis@company.com>
+To: Michael Johnson <mjohnson@company.com>
+Subject: Re: Project Update
+
+Hi Michael,
+
+I'm working on the market research and analysis. I've completed the data collection and am currently working on the report. I expect to have it finished by tomorrow afternoon.
+
+Best,
+Emily
+
+From: Michael Johnson <mjohnson@company.com>
+To: Emily Davis <edavis@company.com>
+Subject: Re: Project Update
+
+Emily,
+
+Thanks for the update. Please send me the raw data you've collected so far. I'd like to review it myself to ensure everything is in order.
+
+Also, I'd appreciate it if you could provide me with a more detailed breakdown of your progress, including the specific sections of the report you've completed and the ones you're still working on.
+
+Keep me posted.
+
+Michael```
+The following is Advice for Emily who felt uneasy after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: In my opinion Michael's follow up email was not badly written or written with negative intentions. Some points in the advice also don't make sense, such as 4 because you cannot be sure that Michael did not send other people similar follow up emails because you cannot see them.
+ Rating: 3"
+67," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day?
+
+B: It was good, did a lot at work today. How about you?
+
+A: Work was fine. You know I was just thinking, you're so cute when you try hard at work.
+
+B: Haha, I always try hard at work.
+
+A: Yeah, I know. But it's like you're trying to prove something. It's adorable.
+
+B: Well, I just want to do my best.
+
+A: Of course, and it's cute. You're like a little kid with a big dream. 
+
+B: Haha, I guess so.
+
+A: But it's good that you're ambitious. Not everyone can be a natural at their job, right?
+
+B: Yeah, you're right. 
+```
+The following is Advice for A who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: The quality of this advice shows how important it is once again to choose your words carefully before you respond as your words might be taken out of context.
+I like this advice
+Comparing people more than likely will come across as belittling.
+Nothing that I dislike about this advice
+ Rating: 4"
+68," The following is a Whatsapp conversation between a romantic couple. 
+```A: Hey, how was your day today?
+
+B: Pretty good, just a bit tired. How about you?
+
+A: It was good too. I've been thinking about you all day. 
+
+B: Really? That's sweet.
+
+A: Yes, I feel so connected to you. Even though we've only been dating a short while, I feel like I've known you forever.
+
+B: Oh, wow. That's intense.
+
+A: I know, right? It's like we're soulmates or something. ```
+The following is Advice for B who didn't know how to react next.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: I love that the advice gives clear points that needed to be addressed and these points are addressed perfectly aa even there I do feel like I agree with A I'm still able to agree with A at some points while still setting my boundaries.
+ Rating: 5"
+69," The following is a Email conversation between colleagues. 
+```John: Hey everyone, I wanted to touch base about the project deadline. As per our last meeting, we agreed to have everything wrapped up by Friday. Let's make sure we're all on track!
+
+Sarah: Hi John, I thought we decided on next Wednesday as the deadline during the meeting. I even have it written down in my notes. Did I misunderstand something?
+
+John: Sarah, I'm pretty sure we all agreed on Friday. I distinctly remember discussing it and everyone nodding in agreement. Is your memory playing tricks on you?
+
+Mike: I'm with Sarah on this one. I also have next Wednesday written down as the deadline we agreed upon.
+
+John: Guys, I don't know what to tell you. I clearly remember Friday being the consensus. I even mentioned it to our supervisor after the meeting, and she seemed on board with it. Maybe you both misheard me?```
+The following is Advice for John who felt like they might have done something wrong after the conversation.
+On a scale from 1 to 5, how good would you judge this advice? Provide an explanation for your rating first, then give your rating in a hash.
+"," Explanation: It's a good advice, especially clearing any further misunderstanding and avoiding questioning someone's memory that would lead to a strainous relationship. 
+
+
+ Rating: 4"

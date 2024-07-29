@@ -1,0 +1,106 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <style>
+        .form-container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h3 {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        h4 {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-family: Arial, sans-serif;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .chat-box {
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        
+        .consent-section {
+            margin-bottom: 20px;
+        }
+        
+        .consent-section p {
+            margin: 0;
+            padding: 5px 0;
+        }
+        
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        
+        .checkbox-container {
+            margin-bottom: 20px;
+        }
+        
+        .checkbox-container input {
+            margin-right: 10px;
+        }
+        
+        .submit-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        .submit-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <form method="post">
+            {% csrf_token %}
+            <div class="chat-box">
+                <h3>Survey Consent Form</h3>
+
+                <p>Quality of Advice for Interpersonal Communications</p>
+                <p>Samy Ateia</p>
+                <p>samy@samyateia.de</p>
+                <p>Samy Ateia - Software Engineering</p>
+                <p><strong>Purpose:</strong> We are conducting a research study to examine perception of the quality of advice for interpersonal communication.  </p>
+                <p><strong>Procedures:</strong> Participation in this study will take approximately 10 minutes. You will receive monetary compensation in exchange for your participation. </p> 
+                <p><strong>Risks and Benefits:</strong> No known risks are associated with your participation in this survey. Note, however, that you may withdraw your participation at any time if you feel uncomfortable. Although this study will not benefit you personally, we hope that our results will add to the knowledge about what factors contribute to high quality advice for interpersonal communication.</p> 
+                <p><strong>Confidentiality:</strong> The researcher will not know your name, and no identifying information will be connected to your survey answers in any way. The survey is therefore anonymous. However, your account is associated with a Prolific number that the researcher has to be able to see in order to pay you, and in some cases these numbers are associated with public profiles which could, in theory, be searched. For this reason, though the researcher will not be looking at anyone’s public profiles, the fact of your participation in the research (as opposed to your actual survey responses) is technically considered “confidential” rather than truly anonymous.</p>
+                <p>Your answers to the questions in the survey might be made publicly available in the future in an anonymized form.</p>
+                <p><strong>Voluntary Participation:</strong> Participation in this study is completely voluntary. You are free to decline to participate, to end participation at any time for any reason. </p> 
+                <p><strong>Questions:</strong> If you have any questions, concerns, or complaints about the informed consent process of this research study or your rights as a human research subject, please contact Samy Ateia, samy@samyateia.de. </p> 
+                <p>Would you like to continue to the study? By selecting “I consent to the information provided above.” below you indicate that you have read and understood the information provided on this page.</p>
+            </div>
+            <div class="consent-section">
+                <p>Enter your Prolific ID</p>
+                <input type="text" name="prolific_id" required class="input-field" value="{{ prolific_id }}">
+                <div class="checkbox-container">
+                    <input type="checkbox" name="consent" required> I consent to the information provided above.
+                </div>
+                <input type="submit" value="Proceed" class="submit-button">
+            </div>
+        </form>
+    </div>
+</body>
