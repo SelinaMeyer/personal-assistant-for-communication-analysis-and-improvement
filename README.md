@@ -1,1 +1,1 @@
-# personal-assistant-for-communication-analysis-and-improvement
+# Personal Assistant for Communication Analysis and Improvement
