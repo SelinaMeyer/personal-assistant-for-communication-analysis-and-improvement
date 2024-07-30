@@ -1,3 +1,7 @@
+"""
+Django Command to import pre-generated advice from a CSV file
+"""
+
 from django.core.management.base import BaseCommand
 import csv
 from survey.models import Advice, Chat

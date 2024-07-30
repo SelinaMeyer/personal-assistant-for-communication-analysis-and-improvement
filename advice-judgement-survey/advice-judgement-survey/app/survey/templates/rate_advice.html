@@ -2,11 +2,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <script>
         function validateForm() {
+            // Get rating and chat rating radio button groups
             const ratings = document.getElementsByName('rating');
             const chatRatings = document.getElementsByName('rating_chat');
             let ratingSelected = false;
             let chatRatingSelected = false;
 
+            // Check if a rating for advice is selected
             for (const rating of ratings) {
                 if (rating.checked) {
                     ratingSelected = true;
@@ -14,6 +16,7 @@
                 }
             }
 
+            // Check if a chat rating is selected
             for (const chatRating of chatRatings) {
                 if (chatRating.checked) {
                     chatRatingSelected = true;
@@ -21,25 +24,30 @@
                 }
             }
 
+            // Alert user if chat rating is not selected and prevent form submission
             if (!chatRatingSelected) {
                 alert('Please select how you feel after the interaction.');
                 return false;
             }
 
+            // Alert user if advice rating is not selected and prevent form submission
             if (!ratingSelected) {
                 alert('Please select a rating for the advice.');
                 return false;
             }
 
+            // Allow form submission if both ratings are selected
             return true;
         }
 
         function showAdditionalContent() {
+            // Display advice and advice rating form
             const additionalContent = document.getElementById('additional-content');
             additionalContent.style.display = 'block';
         }
 
         document.addEventListener('DOMContentLoaded', function() {
+            // Add event listeners to chat rating inputs to show advice and advice rating form on change
             const chatRatingInputs = document.getElementsByName('rating_chat');
             for (const input of chatRatingInputs) {
                 input.addEventListener('change', showAdditionalContent);

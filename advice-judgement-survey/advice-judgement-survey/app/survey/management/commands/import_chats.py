@@ -1,9 +1,13 @@
+"""
+Django Command to import the pre-generated Chats from a CSV file
+"""
+
 from django.core.management.base import BaseCommand
 import csv
 from survey.models import Chat
 
 class Command(BaseCommand):
-    help = 'Import chats from a CSV file, updating existing records as necessary.'
+    help = 'Imports chats from a CSV file, updating existing records as necessary.'
 
     def add_arguments(self, parser):
         parser.add_argument('csv_file', type=str, help="The path to the CSV file to import.")
